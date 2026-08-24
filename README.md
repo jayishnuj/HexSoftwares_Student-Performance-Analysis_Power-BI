@@ -76,23 +76,23 @@ Interactive Power BI dashboards analyzing Mathematics performance across G1 , G2
 
 This Power BI project analyzes the academic performance of students in Mathematics across three stages of assessment: Grade 1 (G1), Grade 2 (G2), and Final Grade (G3).
 The dashboard is organized into three dedicated pages:
-Grade 1 Dashboard – analyzes students' first-period Mathematics performance.
-Grade 2 Dashboard – analyzes second-period performance.
-Final Grade Dashboard – focuses on students' final Mathematics grades.
+- Grade 1 Dashboard – analyzes students' first-period Mathematics performance.
+- Grade 2 Dashboard – analyzes second-period performance.
+- Final Grade Dashboard – focuses on students' final Mathematics grades.
 
 # What the dashboard analyzes :-
 
 The project goes beyond simply displaying grades. It examines how academic performance relates to several student, family, educational, and lifestyle factors.
 The dashboards include:
-Average, maximum, and minimum grades for each assessment period.
-Student count across different categories.
-Performance comparison based on internet access and gender.
-Relationship between study time and family educational support.
-Comparison of study time with urban/rural residence.
-Influence of free time and aspirations for higher education on performance.
-Relationship between family relationship quality and family size.
-Student performance based on participation in extracurricular activities.
-Distribution of students according to health condition.
-Analysis of the reason for choosing the school.
-A matrix examining Mathematics performance in relation to father's and mother's education levels.
-A school slicer allowing the dashboard to be filtered by school.
+- Average, maximum, and minimum grades for each assessment period.
+- Student count across different categories.
+- Performance comparison based on internet access and gender.
+- Relationship between study time and family educational support.
+- Comparison of study time with urban/rural residence.
+- Influence of free time and aspirations for higher education on performance.
+- Relationship between family relationship quality and family size.
+- Student performance based on participation in extracurricular activities.
+- Distribution of students according to health condition.
+- Analysis of the reason for choosing the school.
+- A matrix examining Mathematics performance in relation to father's and mother's education levels.
+- A school slicer allowing the dashboard to be filtered by school.
