@@ -62,7 +62,7 @@ Interactive Power BI dashboards analyzing Mathematics performance across G1 , G2
 
 29. **health** — Current health status (numeric: `1` - very bad to `5` - very good)
 
-30. **absences** — Number of school absences (numeric: 0 to 93)                                                                                         |
+30. **absences** — Number of school absences (numeric: 0 to 93)                                                                                         
 
 # The target variables are :-
 
