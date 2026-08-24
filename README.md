@@ -2,6 +2,10 @@
 
 Interactive Power BI dashboards analyzing Mathematics performance across G1 , G2 , and G3 grades using demographic , academic , family and social factors
 
+# Data Source
+
+https://archive.ics.uci.edu/dataset/320/student+performance
+
 # The feature variables in this dataset are :-
 
 1. **school** — Student's school (binary: `GP` - Gabriel Pereira or `MS` - Mousinho da Silveira)
