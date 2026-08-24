@@ -67,7 +67,7 @@ Interactive Power BI dashboards analyzing Mathematics performance across G1 , G2
 # The target variables are :-
 
 31. **G1** - first period grade (numeric: from 0 to 20)
-32. 
-33. **G2** - second period grade (numeric: from 0 to 20)
-34. 
-35. **G3** - final grade (numeric: from 0 to 20) 
+ 
+32. **G2** - second period grade (numeric: from 0 to 20)
+ 
+33. **G3** - final grade (numeric: from 0 to 20) 
