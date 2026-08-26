@@ -89,8 +89,7 @@ The dashboard is organized into three dedicated pages:
 The project goes beyond simply displaying grades. It examines how academic performance relates to several student, family, educational, and lifestyle factors.
 The dashboards include:
 - Average, maximum, and minimum grades for each assessment period.
-- Student count across different categories.
-- Performance comparison based on internet access and gender.
+- Student count across different categories like age composition according to internet acess and gender + grade distribution in accordance with extra-curricular activity involvement and extra educational support provided by School
 - Relationship between study time and family educational support.
 - Comparison of study time with urban/rural residence.
 - Influence of free time and aspirations for higher education on performance.
